@@ -1,5 +1,5 @@
 (function() {
-	//'use strict';
+	'use strict';
 
 	try {
 		//Test is let is available in the browser
